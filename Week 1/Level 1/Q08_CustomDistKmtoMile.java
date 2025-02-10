@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class CustomDistKmtoMile {
+class Q08_CustomDistKmtoMile {
 	public static void main(String[] args) {
 		double km;
 		double onekm = 1.6;

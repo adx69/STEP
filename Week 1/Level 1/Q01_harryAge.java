@@ -1,4 +1,4 @@
-class harryAge {
+class Q01_harryAge {
 	public static void main(String[] args) {
 
 		// declaring variables

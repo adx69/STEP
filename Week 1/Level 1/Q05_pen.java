@@ -1,4 +1,4 @@
-class pen {
+class Q05_pen {
 	public static void main(String[] args) {
 		int pens = 13;
 		int students = 3;

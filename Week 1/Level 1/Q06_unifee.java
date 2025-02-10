@@ -1,4 +1,4 @@
-class unifee {
+class Q06_unifee {
 	public static void main(String[] args) {
 
 		// Declaaring Variabels

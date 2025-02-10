@@ -1,4 +1,4 @@
-class samMarks {
+class Q02_samMarks {
 	public static void main(String[] args) {
 
 		// declaring variables for arithmetic operation
