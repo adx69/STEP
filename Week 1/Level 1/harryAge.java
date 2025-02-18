@@ -1,4 +1,4 @@
-class Q01_harryAge {
+class harryAge {
 	public static void main(String[] args) {
 
 		// declaring variables
@@ -6,5 +6,6 @@ class Q01_harryAge {
 		int birthYear = 2000;
 		int age = currentYear - birthYear;
 		System.out.println("Harry's age in 2024 is " + age);
+		
 	}
 }

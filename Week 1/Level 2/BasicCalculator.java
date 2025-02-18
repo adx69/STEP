@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Q1_BasicCalculator {
+public class BasicCalculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

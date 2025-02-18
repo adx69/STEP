@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Q09_CustomUniFee {
+class CustomUniFee {
 	public static void main(String[] args) {
 		double fee;
 		Scanner input = new Scanner(System.in);

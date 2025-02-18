@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Q10_height {
+class height {
   public static void main(String[] args) {
 
     // Declaring variable to store height in centimeter

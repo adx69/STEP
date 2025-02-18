@@ -1,4 +1,4 @@
-class Q07_volOfEarth {
+class volOfEarth {
 	public static void main(String[] args) {
 
 		// declaring variables

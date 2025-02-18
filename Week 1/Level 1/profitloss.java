@@ -1,4 +1,4 @@
-class Q04_profitloss {
+class profitloss {
 	public static void main(String[] args) {
 		// declaring variables
 		double costprice = 129;

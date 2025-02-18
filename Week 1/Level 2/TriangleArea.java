@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Q2_TriangleArea {
+class TriangleArea {
     public static void main(String[] args) {
         // Initialize the Scanner object to read user input
         Scanner scanner = new Scanner(System.in);

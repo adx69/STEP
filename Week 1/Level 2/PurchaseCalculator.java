@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Q5_PurchaseCalculator {
+class PurchaseCalculator {
     public static void main(String[] args) {
         // Initialize the Scanner object to read user input
         Scanner scanner = new Scanner(System.in);

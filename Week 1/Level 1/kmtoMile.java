@@ -1,4 +1,4 @@
-class Q03_kmtoMile {
+class kmtoMile {
 	public static void main(String[] args) {
 
 		// declaring Variables
