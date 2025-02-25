@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class IsFirstLargest{
+class LargestNumber{
 	public static void main(String[] args){
 		
 		// Take input from user
