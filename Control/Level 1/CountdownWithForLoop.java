@@ -1,4 +1,4 @@
-
+import java.util.Scanner;
 
 public class CountdownWithForLoop {
 
@@ -7,7 +7,7 @@ public class CountdownWithForLoop {
         System.out.println("Enter the countdown value: ");
         int counter = input.nextInt();
         input.close();
-        int counter = 10;
+        counter = 10;
 
         for (int i = counter; i >= 1; i--) {
             System.out.println(i);
